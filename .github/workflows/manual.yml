@@ -17,7 +17,6 @@ on:
         required: true
         # The data type of the input
         type: string
-
   repository_dispatch:
     types:
       - webhook
