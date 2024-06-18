@@ -1,7 +1,7 @@
 {
     "TestKey1": "Test key.",
-    "TestKey2": "Test key",
-    "TestKey3": "Test key",
-    "TestKey4": "Test key",
-    "TestKey5": "Test key"
+    "TestKey2": "Test key. Test key",
+    "TestKey3": "Test key. Test key. Test key",
+    "TestKey4": "Test key. Test key. Test key. Test key",
+    "TestKey6": "Test key. Test key. Test key. Test key"
 }
