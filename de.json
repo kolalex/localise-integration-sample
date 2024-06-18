@@ -1,6 +1,7 @@
 {
-    "TestKey1": "Test key.",
-    "TestKey2": "Test key. Test key.",
-    "TestKey3": "Test key. Test key. Test key",
-    "TestKey4": "Test key. Test key. Test key. Test key"
+    "TestKey2": "Prüfschlüssel",
+    "TestKey3": "Prüfschlüssel",
+    "TestKey4": "Prüfschlüssel",
+    "TestKey1": "Taste Test.",
+    "TestKey6": ""
 }
